@@ -1,0 +1,7 @@
+images/
+images_predicted/
+images_uploaded/
+images_with_boxes/
+lab1/
+deploy.prototxt.txt
+mobilenet_iter_73000.caffemodel
