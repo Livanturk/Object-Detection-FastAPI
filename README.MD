@@ -7,22 +7,6 @@ This project allows you to perform object detection using a pre-trained MobileNe
 - Uses OpenCV's DNN module and MobileNet SSD model
 - Dockerized for easy deployment
 
-## 🧾 Project Structure
-```
-Lab-1/
-├── app/
-│   ├── main.py
-│   └── requirements.txt
-├── images/  # Input test images
-├── images_with_boxes/
-├── images_predicted/
-├── images_uploaded/
-├── Dockerfile
-├── .dockerignore
-├── .gitignore
-└── README.md
-```
-
 ## ⚙️ Requirements (without Docker)
 ```bash
 pip install -r app/requirements.txt
